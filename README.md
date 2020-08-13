@@ -1,7 +1,7 @@
 # SudokuMaker
 This program creates 'Sudoku' maps.
 
-The algorithm is so simple and it works correctly.
+The algorithm is so simple and the program works correctly.
 
 Written in C and its very simple.
 
